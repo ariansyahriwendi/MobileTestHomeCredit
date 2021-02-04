@@ -3,7 +3,7 @@
    <description></description>
    <name>android.widget.TextView - DAFTAR</name>
    <tag></tag>
-   <elementGuidId>2c0a32a6-07a1-43db-b5a7-d6075d4d2732</elementGuidId>
+   <elementGuidId>3c747bbe-33a6-4b38-a9dc-364ea0d0a934</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>

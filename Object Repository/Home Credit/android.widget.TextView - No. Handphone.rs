@@ -3,7 +3,7 @@
    <description></description>
    <name>android.widget.TextView - No. Handphone</name>
    <tag></tag>
-   <elementGuidId>c00a739d-9469-45f7-b507-90f6c0531752</elementGuidId>
+   <elementGuidId>30b686b7-4ffa-4637-95c9-c00b471e8425</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>

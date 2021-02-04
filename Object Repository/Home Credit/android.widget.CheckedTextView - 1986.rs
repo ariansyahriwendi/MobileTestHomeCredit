@@ -3,7 +3,7 @@
    <description></description>
    <name>android.widget.CheckedTextView - 1986</name>
    <tag></tag>
-   <elementGuidId>5831191b-cb7e-417f-b4df-cc680b25f423</elementGuidId>
+   <elementGuidId>4b27fc5a-f15d-4143-a5aa-73b00e9bd1bc</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>

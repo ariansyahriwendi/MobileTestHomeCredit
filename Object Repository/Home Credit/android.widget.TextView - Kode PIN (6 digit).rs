@@ -3,7 +3,7 @@
    <description></description>
    <name>android.widget.TextView - Kode PIN (6 digit)</name>
    <tag></tag>
-   <elementGuidId>6268b5b2-1c12-4c8a-83a5-913a6988a8f7</elementGuidId>
+   <elementGuidId>59558428-639f-4a3e-88b8-aac31ce9cdfd</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>

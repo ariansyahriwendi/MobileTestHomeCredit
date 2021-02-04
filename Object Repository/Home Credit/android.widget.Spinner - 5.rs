@@ -3,7 +3,7 @@
    <description></description>
    <name>android.widget.Spinner - 5</name>
    <tag></tag>
-   <elementGuidId>cc8c0a9c-70b3-44c0-bc8e-b7067ea5a865</elementGuidId>
+   <elementGuidId>fc0bb526-b19b-4ddc-be1f-011178648675</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>

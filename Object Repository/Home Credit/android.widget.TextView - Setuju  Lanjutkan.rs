@@ -3,7 +3,7 @@
    <description></description>
    <name>android.widget.TextView - Setuju  Lanjutkan</name>
    <tag></tag>
-   <elementGuidId>dd9131d6-1c83-4cc5-98e8-936e9d92058e</elementGuidId>
+   <elementGuidId>1cb0e5f7-a875-44a5-8bb4-0731958292ab</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>

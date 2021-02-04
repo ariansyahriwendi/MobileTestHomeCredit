@@ -3,7 +3,7 @@
    <description></description>
    <name>android.widget.Button - Daftar</name>
    <tag></tag>
-   <elementGuidId>7c19ceda-b0db-4812-b5fd-eccdaaba064f</elementGuidId>
+   <elementGuidId>7363f786-fe69-488c-8633-0d27f083d414</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>

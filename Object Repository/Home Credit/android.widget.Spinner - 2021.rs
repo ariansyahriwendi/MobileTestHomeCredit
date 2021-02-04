@@ -3,7 +3,7 @@
    <description></description>
    <name>android.widget.Spinner - 2021</name>
    <tag></tag>
-   <elementGuidId>f609eba3-10d6-4dcc-897c-367f04d6f971</elementGuidId>
+   <elementGuidId>7b2a2e9c-6512-469d-bcf8-6f1b47f7fdc6</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>

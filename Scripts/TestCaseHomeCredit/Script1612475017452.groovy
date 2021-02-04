@@ -24,55 +24,55 @@ Mobile.swipe(200, 200, 20, 200)
 
 Mobile.swipe(200, 200, 20, 200)
 
-Mobile.tap(findTestObject('Object Repository/Home Credit/android.widget.TextView - DAFTAR'), 0)
+Mobile.tap(findTestObject('null'), 0)
 
 Mobile.scrollToText('Hubungi Kami')
 
-Mobile.tap(findTestObject('Object Repository/Home Credit/android.widget.TextView - Setuju  Lanjutkan'), 0)
+Mobile.tap(findTestObject('null'), 0)
 
-Mobile.tap(findTestObject('Object Repository/Home Credit/android.widget.Spinner - 5'), 0)
+Mobile.tap(findTestObject('null'), 0)
 
 Mobile.scrollToText('30')
 
-Mobile.tap(findTestObject('Object Repository/Home Credit/android.widget.CheckedTextView - 30'), 0)
+Mobile.tap(findTestObject('null'), 0)
 
-Mobile.tap(findTestObject('Object Repository/Home Credit/android.widget.Spinner - Februari'), 0)
+Mobile.tap(findTestObject('null'), 0)
 
-Mobile.tap(findTestObject('Object Repository/Home Credit/android.widget.CheckedTextView - April'), 0)
+Mobile.tap(findTestObject('null'), 0)
 
-Mobile.tap(findTestObject('Object Repository/Home Credit/android.widget.Spinner - 2021'), 0)
+Mobile.tap(findTestObject('null'), 0)
 
 Mobile.scrollToText('1986')
 
-Mobile.tap(findTestObject('Home Credit/android.widget.CheckedTextView - 1986'), 0)
+Mobile.tap(findTestObject('null'), 0)
 
-Mobile.tap(findTestObject('Object Repository/Home Credit/android.widget.TextView - No. Handphone'), 0)
+Mobile.tap(findTestObject('null'), 0)
 
-Mobile.setText(findTestObject('Object Repository/Home Credit/android.widget.EditText - (62)'), '81806442929', 0)
+Mobile.setText(findTestObject('null'), '81806442929', 0)
 
-Mobile.tap(findTestObject('Object Repository/Home Credit/android.widget.TextView - Kode PIN (6 digit)'), 0)
+Mobile.tap(findTestObject('null'), 0)
 
-Mobile.setEncryptedText(findTestObject('Object Repository/Home Credit/android.widget.EditText'), 'ETJdJZP+ugk=', 0)
+Mobile.setEncryptedText(findTestObject('null'), 'ETJdJZP+ugk=', 0)
 
-Mobile.tap(findTestObject('Object Repository/Home Credit/android.widget.EditText (1)'), 0)
+Mobile.tap(findTestObject('null'), 0)
 
-Mobile.setEncryptedText(findTestObject('Object Repository/Home Credit/android.widget.EditText (2)'), 'ETJdJZP+ugk=', 0)
+Mobile.setEncryptedText(findTestObject('null'), 'ETJdJZP+ugk=', 0)
 
-Mobile.tap(findTestObject('Object Repository/Home Credit/android.widget.Button - Lanjutkan'), 0)
+Mobile.tap(findTestObject('null'), 0)
 
-Mobile.tap(findTestObject('Object Repository/Home Credit/android.widget.EditText (3)'), 3)
+Mobile.tap(findTestObject('null'), 3)
 
-Mobile.tap(findTestObject('Object Repository/Home Credit/android.widget.EditText (4)'), 7)
+Mobile.tap(findTestObject('null'), 7)
 
-Mobile.tap(findTestObject('Object Repository/Home Credit/android.widget.EditText (5)'), 9)
+Mobile.tap(findTestObject('null'), 9)
 
-Mobile.tap(findTestObject('Object Repository/Home Credit/android.widget.EditText (6)'), 5)
+Mobile.tap(findTestObject('null'), 5)
 
-Mobile.tap(findTestObject('Object Repository/Home Credit/android.widget.EditText (7)'), 2)
+Mobile.tap(findTestObject('null'), 2)
 
-Mobile.tap(findTestObject('Object Repository/Home Credit/android.widget.EditText (8)'), 7)
+Mobile.tap(findTestObject('null'), 7)
 
-Mobile.tap(findTestObject('Object Repository/Home Credit/android.widget.Button - Daftar'), 0)
+Mobile.tap(findTestObject('null'), 0)
 
 Mobile.closeApplication()
 

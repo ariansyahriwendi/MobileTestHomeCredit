@@ -3,7 +3,7 @@
    <description></description>
    <name>android.widget.Button - Lanjutkan</name>
    <tag></tag>
-   <elementGuidId>2809db02-e56c-470a-ad1f-b9e7cf7cec8f</elementGuidId>
+   <elementGuidId>30b603ac-1b8d-4657-8daf-183a5ce6bb0c</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>

@@ -3,7 +3,7 @@
    <description></description>
    <name>android.widget.Spinner - Februari</name>
    <tag></tag>
-   <elementGuidId>f3fcfa70-b9ac-499f-9833-5edac1840dce</elementGuidId>
+   <elementGuidId>d15bbf83-1fe9-4d32-b2bb-54f2043d2b02</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>

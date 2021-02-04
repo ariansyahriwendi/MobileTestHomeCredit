@@ -3,7 +3,7 @@
    <description></description>
    <name>android.widget.CheckedTextView - 30</name>
    <tag></tag>
-   <elementGuidId>ad940202-e2e5-4c7b-8fe5-a676fd903456</elementGuidId>
+   <elementGuidId>db35aea8-5b60-49a4-99ee-cfe46cf1d496</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>

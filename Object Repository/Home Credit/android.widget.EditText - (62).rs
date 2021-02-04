@@ -3,7 +3,7 @@
    <description></description>
    <name>android.widget.EditText - (62)</name>
    <tag></tag>
-   <elementGuidId>67026c53-15c1-4133-a8b3-7f5979067f9e</elementGuidId>
+   <elementGuidId>f9940f6b-20b5-41fb-b8bf-57c7769e35a2</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>

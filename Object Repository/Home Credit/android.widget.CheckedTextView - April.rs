@@ -3,7 +3,7 @@
    <description></description>
    <name>android.widget.CheckedTextView - April</name>
    <tag></tag>
-   <elementGuidId>8e5a35a6-dd8e-43fa-8ce1-b4b4e391db3f</elementGuidId>
+   <elementGuidId>02965749-eff5-45f8-9035-33d48e9fbe0c</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
